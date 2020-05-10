@@ -16,7 +16,7 @@ My solutions to puzzles in EXAPUNKS
 | [SFCTA Highway Sign #4902 - Remote Access Interface](solutions/09-sfcta-highway-sign-4902-remote-access-interface)      | 166    | 10   | 1       |
 | [Unknown Network 1 - Unknown Context](solutions/10-unknown-network-1-unknown-context)                                   | 18     | 25   | 17      |
 | [UC Berkeley - EECS Department](solutions/11-uc-berkeley-eecs-department)                                               | 139    | 35   | 7       |
-| [Workhouse - Work Management System](solutions/12-workhouse-work-management-system)                                     |        |      |         |
+| [Workhouse - Work Management System](solutions/12-workhouse-work-management-system)                                     | 230    | 49   | 2       |
 | [Equity First Bank - San Fancisco](solutions/13-equity-first-bank-san-francisco)                                        |        |      |         |
 | [Mitsuzen HDI-10 - Heart](solutions/14-mitsuzen-hdi-10-heart)                                                           |        |      |         |
 | [Trash World News - Unknown Context](solutions/15-trash-world-news-unknown-context)                                     |        |      |         |
