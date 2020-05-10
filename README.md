@@ -14,7 +14,7 @@ My solutions to puzzles in EXAPUNKS
 | [Last Stop Snaxnet - Factory 11](solutions/07-last-stop-snaxnet-factory-11)                                             | 31     | 11   | 2       |
 | [Zebros Copies - Point-Of-Sale System](solutions/08-zebros-copies-point-of-sale-system)                                 | 73     | 30   | 2       |
 | [SFCTA Highway Sign #4902 - Remote Access Interface](solutions/09-sfcta-highway-sign-4902-remote-access-interface)      | 166    | 10   | 1       |
-| [Unknown Network 1 - Unknown Context](solutions/10-unknown-network-1-unknown-context)                                   |        |      |         |
+| [Unknown Network 1 - Unknown Context](solutions/10-unknown-network-1-unknown-context)                                   | 18     | 25   | 17      |
 | [UC Berkeley - EECS Department](solutions/11-uc-berkeley-eecs-department)                                               |        |      |         |
 | [Workhouse - Work Management System](solutions/12-workhouse-work-management-system)                                     |        |      |         |
 | [Equity First Bank - San Fancisco](solutions/13-equity-first-bank-san-francisco)                                        |        |      |         |
