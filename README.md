@@ -11,7 +11,7 @@ My solutions to puzzles in EXAPUNKS
 | [Trash World News - Tutorial 4](solutions/04-trash-world-news-tutorial-4)                                               | 305    | 11   | 2       |
 | [Euclid's Pizza - Order System](solutions/05-euclids-pizza-order-system)                                                | 13     | 14   | 1       |
 | [Mitsuzen HDI-10 - Left Arm](solutions/06-mitsuzen-hdi-10-left-arm)                                                     | 247    | 21   | 6       |
-| [Last Stop Snaxnet - Factory 11](solutions/07-last-stop-snaxnet-factory-11)                                             |        |      |         |
+| [Last Stop Snaxnet - Factory 11](solutions/07-last-stop-snaxnet-factory-11)                                             | 31     | 11   | 2       |
 | [Zebros Copies - Point-Of-Sale System](solutions/08-zebros-copies-point-of-sale-system)                                 |        |      |         |
 | [SFCTA Highway Sign #4902 - Remote Access Interface](solutions/09-sfcta-highway-sign-4902-remote-access-interface)      |        |      |         |
 | [Unknown Network 1 - Unknown Context](solutions/10-unknown-network-1-unknown-context)                                   |        |      |         |
