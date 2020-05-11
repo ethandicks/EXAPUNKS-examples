@@ -23,7 +23,7 @@ My solutions to puzzles in EXAPUNKS
 | [Battle 1 KGOG-TV - 100%](solutions/15a-battle-1-kgog-tv)                                                               |        |      |         |
 | [TEC Redshift - Development Kit](solutions/16-tec-redshift-development-kit)                                             | 5795   | 26   | 7       |
 | [Digital Library Project - Patron Access System](solutions/17-digital-library-project-patron-access-system)             | 360    | 34   | 71      |
-| [TEC EXA-Blaster Modem - Radio Stations](solutions/18-tec-exa-blaster-modem-radio-stations)                             |        |      |         |
+| [TEC EXA-Blaster Modem - Radio Stations](solutions/18-tec-exa-blaster-modem-radio-stations)                             | 644    | 39   | 19      |
 | [Emerson's Guide - Streetsmarts GIS Database](solutions/19-emersonsguide-streetsmarts-gis-database)                     |        |      |         |
 | [Battle 2 Valhalla - 100%](solutions/20a-battle-2-valhalla)                                                             |        |      |         |
 | [Mitsuzen HDI-10 - Left Hand](solutions/20-mitsuzen-hdi-10-left-hand)                                                   |        |      |         |
