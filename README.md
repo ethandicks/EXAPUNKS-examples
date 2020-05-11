@@ -19,7 +19,7 @@ My solutions to puzzles in EXAPUNKS
 | [Workhouse - Work Management System](solutions/12-workhouse-work-management-system)                                     | 230    | 49   | 2       |
 | [Equity First Bank - San Fancisco](solutions/13-equity-first-bank-san-francisco)                                        | 1242   | 28   | 10      |
 | [Mitsuzen HDI-10 - Heart](solutions/14-mitsuzen-hdi-10-heart)                                                           | 90     | 34   | 5       |
-| [Trash World News - Unknown Context](solutions/15-trash-world-news-unknown-context)                                     |        |      |         |
+| [Trash World News - Unknown Context](solutions/15-trash-world-news-unknown-context)                                     | 551    | 25   | 7       |
 | [Battle 1 KGOG-TV - 100%](solutions/15a-battle-1-kgog-tv)                                                               |        |      |         |
 | [TEC Redshift - Development Kit](solutions/16-tec-redshift-development-kit)                                             |        |      |         |
 | [Digital Library Project - Patron Access System](solutions/17-digital-library-project-patron-access-system)             |        |      |         |
