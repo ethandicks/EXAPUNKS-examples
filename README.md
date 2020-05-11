@@ -26,7 +26,7 @@ My solutions to puzzles in EXAPUNKS
 | [TEC EXA-Blaster Modem - Radio Stations](solutions/18-tec-exa-blaster-modem-radio-stations)                             | 644    | 39   | 19      |
 | [Emerson's Guide - Streetsmarts GIS Database](solutions/19-emersonsguide-streetsmarts-gis-database)                     | 66     | 42   | 6       |
 | [Battle 2 Valhalla - 100%](solutions/20a-battle-2-valhalla)                                                             |        |      |         |
-| [Mitsuzen HDI-10 - Left Hand](solutions/20-mitsuzen-hdi-10-left-hand)                                                   |        |      |         |
+| [Mitsuzen HDI-10 - Left Hand](solutions/20-mitsuzen-hdi-10-left-hand)                                                   | 52     | 45   | 24      |
 | [Sawayama Wonderdisc - Drive Controller](solutions/21-sawayama-wonderdisc-drive-controller)                             |        |      |         |
 | [Alliance Power and Light - Streetsmarts GIS Database](solutions/22-alliance-power-and-light-streetsmarts-gis-database) |        |      |         |
 | [Battle 3 Deadlock's Domain - 100%](solutions/23a-battle-3-deadlocks-domain)                                            |        |      |         |
