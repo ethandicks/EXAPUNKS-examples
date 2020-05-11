@@ -21,7 +21,7 @@ My solutions to puzzles in EXAPUNKS
 | [Mitsuzen HDI-10 - Heart](solutions/14-mitsuzen-hdi-10-heart)                                                           | 90     | 34   | 5       |
 | [Trash World News - Unknown Context](solutions/15-trash-world-news-unknown-context)                                     | 551    | 25   | 7       |
 | [Battle 1 KGOG-TV - 100%](solutions/15a-battle-1-kgog-tv)                                                               |        |      |         |
-| [TEC Redshift - Development Kit](solutions/16-tec-redshift-development-kit)                                             |        |      |         |
+| [TEC Redshift - Development Kit](solutions/16-tec-redshift-development-kit)                                             | 5795   | 26   | 7       |
 | [Digital Library Project - Patron Access System](solutions/17-digital-library-project-patron-access-system)             |        |      |         |
 | [TEC EXA-Blaster Modem - Radio Stations](solutions/18-tec-exa-blaster-modem-radio-stations)                             |        |      |         |
 | [Emerson's Guide - Streetsmarts GIS Database](solutions/19-emersonsguide-streetsmarts-gis-database)                     |        |      |         |
