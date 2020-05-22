@@ -20,28 +20,32 @@ My solutions to puzzles in EXAPUNKS
 | [Equity First Bank - San Fancisco](solutions/13-equity-first-bank-san-francisco)                                        | 1242   | 28   | 10      |
 | [Mitsuzen HDI-10 - Heart](solutions/14-mitsuzen-hdi-10-heart)                                                           | 90     | 34   | 5       |
 | [Trash World News - Unknown Context](solutions/15-trash-world-news-unknown-context)                                     | 551    | 25   | 7       |
-| [Battle 1 KGOG-TV - 100%](solutions/15a-battle-1-kgog-tv)                                                               |        |      |         |
 | [TEC Redshift - Development Kit](solutions/16-tec-redshift-development-kit)                                             | 5795   | 26   | 7       |
 | [Digital Library Project - Patron Access System](solutions/17-digital-library-project-patron-access-system)             | 360    | 34   | 71      |
 | [TEC EXA-Blaster Modem - Radio Stations](solutions/18-tec-exa-blaster-modem-radio-stations)                             | 644    | 39   | 19      |
 | [Emerson's Guide - Streetsmarts GIS Database](solutions/19-emersonsguide-streetsmarts-gis-database)                     | 66     | 42   | 6       |
-| [Battle 2 Valhalla - 100%](solutions/20a-battle-2-valhalla)                                                             |        |      |         |
 | [Mitsuzen HDI-10 - Left Hand](solutions/20-mitsuzen-hdi-10-left-hand)                                                   | 52     | 45   | 24      |
 | [Sawayama Wonderdisc - Drive Controller](solutions/21-sawayama-wonderdisc-drive-controller)                             |        |      |         |
 | [Alliance Power and Light - Streetsmarts GIS Database](solutions/22-alliance-power-and-light-streetsmarts-gis-database) |        |      |         |
-| [Battle 3 Deadlock's Domain - 100%](solutions/23a-battle-3-deadlocks-domain)                                            |        |      |         |
 | [Xtreme League Baseball - Player Database](solutions/23-xtreme-league-baseball-player-database)                         |        |      |         |
 | [King's Ransom Online - US West Realm](solutions/24-kings-ransom-online-us-west-realm)                                  |        |      |         |
 | [KGOG-TV - Satellite Uplink](solutions/25-kgog-tv-satellite-uplink)                                                     |        |      |         |
 | [Equity First Bank - San Francisco - ATMs Offline](solutions/26-equity-first-bank-san-francisco-atms-offline)           |        |      |         |
-| [Battle 4 The Wormhole - 100%](solutions/27a-battle-4-the-wormhole)                                                     |        |      |         |
 | [TEC EXA-Blaster Modem - Dataphone Network](solutions/27-tec-exa-blaster-modem-dataphone-network)                       |        |      |         |
 | [Last Stop Snaxnet - Warehouse 27](solutions/28-last-stop-snaxnet-warehouse-27)                                         |        |      |         |
 | [Mitsuzen HDI-10 - Visual Cortex](solutions/29-mitsuzen-hdi-10-visual-cortex)                                           |        |      |         |
 | [Holman Dynamics - Sales System](solutions/30-holman-dynamics-sales-system)                                             |        |      |         |
-| [Battle 5 Aberdeen - 100%](solutions/31a-battle-5-aberdeen)                                                             |        |      |         |
 | [US Government - Fema Genetic Database](solutions/31-us-government-fema-genetic-database)                               |        |      |         |
 | [US Government - Fema Genetic Database unrolled](solutions/31-us-government-fema-genetic-database-unrolled)             |        |      |         |
 | [Unknown Network 2 - Unknown Context](solutions/32-unknown-network-2-unknown-context)                                   |        |      |         |
 | [TEC EXA-Blaster Modem - Pager Network](solutions/33-tec-exa-blaster-modem-pager-network)                               |        |      |         |
 | [Mitsuzen HDI-10 - Cerebral Cortex](solutions/34-mitsuzen-hdi-10-cerebral-cortex)                                       |        |      |         |
+
+
+| Battles                                                                                                                   | Cycles | Size | Activity|
+|-------------------------------------------------------------------------------------------------------------------------|--------|------|---------|
+| [Battle 1 KGOG-TV - 100%](battle/15a-battle-1-kgog-tv)                                                               |        |      |         |
+| [Battle 2 Valhalla - 100%](battle/20a-battle-2-valhalla)                                                             |        |      |         |
+| [Battle 3 Deadlock's Domain - 100%](battle/23a-battle-3-deadlocks-domain)                                            |        |      |         |
+| [Battle 4 The Wormhole - 100%](battle/27a-battle-4-the-wormhole)                                                     |        |      |         |
+| [Battle 5 Aberdeen - 100%](battle/31a-battle-5-aberdeen)                                                             |        |      |         |
