@@ -46,6 +46,6 @@ My solutions to puzzles in EXAPUNKS
 |-------------------------------------------------------------------------------------------------------------------------|--------|------|---------|
 | [Battle 1 KGOG-TV - 100%](battle/15a-battle-1-kgog-tv)                                                                  | 100    | 0    | 0       |
 | [Battle 2 Valhalla - 100%](battle/20a-battle-2-valhalla)                                                                | 100    | 0    | 0       |
-| [Battle 3 Deadlock's Domain - 100%](battle/23a-battle-3-deadlocks-domain)                                               |        |      |         |
+| [Battle 3 Deadlock's Domain - 100%](battle/23a-battle-3-deadlocks-domain)                                               | 82     | 0    | 12      |
 | [Battle 4 The Wormhole - 100%](battle/27a-battle-4-the-wormhole)                                                        |        |      |         |
 | [Battle 5 Aberdeen - 100%](battle/31a-battle-5-aberdeen)                                                                |        |      |         |
