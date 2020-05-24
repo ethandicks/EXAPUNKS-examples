@@ -25,7 +25,7 @@ My solutions to puzzles in EXAPUNKS
 | [TEC EXA-Blaster Modem - Radio Stations](solutions/18-tec-exa-blaster-modem-radio-stations)                             | 644    | 39   | 19      |
 | [Emerson's Guide - Streetsmarts GIS Database](solutions/19-emersonsguide-streetsmarts-gis-database)                     | 66     | 42   | 6       |
 | [Mitsuzen HDI-10 - Left Hand](solutions/20-mitsuzen-hdi-10-left-hand)                                                   | 52     | 45   | 24      |
-| [Sawayama Wonderdisc - Drive Controller](solutions/21-sawayama-wonderdisc-drive-controller)                             |        |      |         |
+| [Sawayama Wonderdisc - Drive Controller](solutions/21-sawayama-wonderdisc-drive-controller)                             | 6371   | 47   | 64      |
 | [Alliance Power and Light - Streetsmarts GIS Database](solutions/22-alliance-power-and-light-streetsmarts-gis-database) |        |      |         |
 | [Xtreme League Baseball - Player Database](solutions/23-xtreme-league-baseball-player-database)                         |        |      |         |
 | [King's Ransom Online - US West Realm](solutions/24-kings-ransom-online-us-west-realm)                                  |        |      |         |
