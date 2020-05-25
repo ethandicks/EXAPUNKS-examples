@@ -26,7 +26,7 @@ My solutions to puzzles in EXAPUNKS
 | [Emerson's Guide - Streetsmarts GIS Database](solutions/19-emersonsguide-streetsmarts-gis-database)                     | 66     | 42   | 6       |
 | [Mitsuzen HDI-10 - Left Hand](solutions/20-mitsuzen-hdi-10-left-hand)                                                   | 52     | 45   | 24      |
 | [Sawayama Wonderdisc - Drive Controller](solutions/21-sawayama-wonderdisc-drive-controller)                             | 6371   | 47   | 64      |
-| [Alliance Power and Light - Streetsmarts GIS Database](solutions/22-alliance-power-and-light-streetsmarts-gis-database) |        |      |         |
+| [Alliance Power and Light - Streetsmarts GIS Database](solutions/22-alliance-power-and-light-streetsmarts-gis-database) | 36     | 28   | 29      |
 | [Xtreme League Baseball - Player Database](solutions/23-xtreme-league-baseball-player-database)                         |        |      |         |
 | [King's Ransom Online - US West Realm](solutions/24-kings-ransom-online-us-west-realm)                                  |        |      |         |
 | [KGOG-TV - Satellite Uplink](solutions/25-kgog-tv-satellite-uplink)                                                     |        |      |         |
@@ -46,6 +46,6 @@ My solutions to puzzles in EXAPUNKS
 |-------------------------------------------------------------------------------------------------------------------------|--------|------|---------|
 | [Battle 1 KGOG-TV - 100%](battle/15a-battle-1-kgog-tv)                                                                  | 100    | 0    | 0       |
 | [Battle 2 Valhalla - 100%](battle/20a-battle-2-valhalla)                                                                | 100    | 0    | 0       |
-| [Battle 3 Deadlock's Domain - 100%](battle/23a-battle-3-deadlocks-domain)                                               | 82     | 0    | 12      |
+| [Battle 3 Deadlock's Domain - 82%](battle/23a-battle-3-deadlocks-domain)                                                | 82     | 0    | 12      |
 | [Battle 4 The Wormhole - 100%](battle/27a-battle-4-the-wormhole)                                                        |        |      |         |
 | [Battle 5 Aberdeen - 100%](battle/31a-battle-5-aberdeen)                                                                |        |      |         |
