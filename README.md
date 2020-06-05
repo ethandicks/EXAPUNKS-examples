@@ -28,7 +28,7 @@ My solutions to puzzles in EXAPUNKS
 | [Sawayama Wonderdisc - Drive Controller](solutions/21-sawayama-wonderdisc-drive-controller)                             | 6371   | 47   | 64      |
 | [Alliance Power and Light - Streetsmarts GIS Database](solutions/22-alliance-power-and-light-streetsmarts-gis-database) | 36     | 28   | 29      |
 | [Xtreme League Baseball - Player Database](solutions/23-xtreme-league-baseball-player-database)                         | 244    | 51   | 1       |
-| [King's Ransom Online - US West Realm](solutions/24-kings-ransom-online-us-west-realm)                                  |        |      |         |
+| [King's Ransom Online - US West Realm](solutions/24-kings-ransom-online-us-west-realm)                                  | 92     | 33   | 31      |
 | [KGOG-TV - Satellite Uplink](solutions/25-kgog-tv-satellite-uplink)                                                     |        |      |         |
 | [Equity First Bank - San Francisco - ATMs Offline](solutions/26-equity-first-bank-san-francisco-atms-offline)           |        |      |         |
 | [TEC EXA-Blaster Modem - Dataphone Network](solutions/27-tec-exa-blaster-modem-dataphone-network)                       |        |      |         |
