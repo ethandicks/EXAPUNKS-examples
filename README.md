@@ -36,7 +36,6 @@ My solutions to puzzles in EXAPUNKS
 | [Mitsuzen HDI-10 - Visual Cortex](solutions/29-mitsuzen-hdi-10-visual-cortex)                                           |        |      |         |
 | [Holman Dynamics - Sales System](solutions/30-holman-dynamics-sales-system)                                             |        |      |         |
 | [US Government - Fema Genetic Database](solutions/31-us-government-fema-genetic-database)                               |        |      |         |
-| [US Government - Fema Genetic Database unrolled](solutions/31-us-government-fema-genetic-database-unrolled)             |        |      |         |
 | [Unknown Network 2 - Unknown Context](solutions/32-unknown-network-2-unknown-context)                                   |        |      |         |
 | [TEC EXA-Blaster Modem - Pager Network](solutions/33-tec-exa-blaster-modem-pager-network)                               |        |      |         |
 | [Mitsuzen HDI-10 - Cerebral Cortex](solutions/34-mitsuzen-hdi-10-cerebral-cortex)                                       |        |      |         |
@@ -47,5 +46,5 @@ My solutions to puzzles in EXAPUNKS
 | [Battle 1 KGOG-TV - 100%](battle/15a-battle-1-kgog-tv)                                                                  | 100    | 0    | 0       |
 | [Battle 2 Valhalla - 100%](battle/20a-battle-2-valhalla)                                                                | 100    | 0    | 0       |
 | [Battle 3 Deadlock's Domain - 82%](battle/23a-battle-3-deadlocks-domain)                                                | 82     | 0    | 12      |
-| [Battle 4 The Wormhole - 100%](battle/27a-battle-4-the-wormhole)                                                        |        |      |         |
-| [Battle 5 Aberdeen - 100%](battle/31a-battle-5-aberdeen)                                                                |        |      |         |
+| [Battle 4 The Wormhole](battle/27a-battle-4-the-wormhole)                                                        |        |      |         |
+| [Battle 5 Aberdeen](battle/31a-battle-5-aberdeen)                                                                |        |      |         |
